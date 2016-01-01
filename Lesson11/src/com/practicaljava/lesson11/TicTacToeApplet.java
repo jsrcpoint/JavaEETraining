@@ -35,7 +35,7 @@ public class TicTacToeApplet extends JApplet implements MouseListener
     private Random moveGen = new Random();
     private JButton randButton;
     //private int randMove;
-    
+    //new comment
     private javax.swing.JLabel playerNumber;
     private java.awt.Panel buttonsPanel;
 
